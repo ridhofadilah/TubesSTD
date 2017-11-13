@@ -1,0 +1,92 @@
+# depslib dependency file v1.0
+1474686420 source:d:\my file\pelajaran\semester 3\algoritma struktur data\testing\atk.cpp
+	"ATK.h"
+
+1474673025 d:\my file\pelajaran\semester 3\algoritma struktur data\testing\atk.h
+	<iostream>
+
+1474685615 source:d:\my file\pelajaran\semester 3\algoritma struktur data\testing\main.cpp
+	<iostream>
+	"ATK.h"
+
+1474685615 source:f:\kuliah\asd\tugas mingguan\main.cpp
+	<iostream>
+	"ATK.h"
+
+1475128324 f:\kuliah\asd\tugas mingguan\atk.h
+	<iostream>
+
+1475128391 source:f:\kuliah\asd\tugas mingguan\atk.cpp
+	"ATK.h"
+
+1475286799 source:d:\my file\pelajaran\semester 3\algoritma struktur data\doubly link list\main.cpp
+	<iostream>
+	"ATK.h"
+
+1475220936 d:\my file\pelajaran\semester 3\algoritma struktur data\doubly link list\atk.h
+	<iostream>
+
+1475286478 source:d:\my file\pelajaran\semester 3\algoritma struktur data\doubly link list\atk.cpp
+	"ATK.h"
+
+1475286800 source:f:\doubly link list\main.cpp
+	<iostream>
+	"ATK.h"
+
+1475220938 f:\doubly link list\atk.h
+	<iostream>
+
+1475888257 source:d:\doubly link list\atk.cpp
+	"ATK.h"
+
+1475887913 d:\doubly link list\atk.h
+	<iostream>
+
+1475888210 source:d:\doubly link list\main.cpp
+	<iostream>
+	"ATK.h"
+
+1477578258 source:f:\kuliah\asd\doubly link list\main.cpp
+	<iostream>
+	"ATK.h"
+
+1477576794 f:\kuliah\asd\doubly link list\atk.h
+	<iostream>
+
+1477576993 source:f:\kuliah\asd\doubly link list\atk.cpp
+	"ATK.h"
+
+1480119794 source:c:\users\praktikum\downloads\multilinklist\atk.cpp
+	"ATK.h"
+
+1480078860 c:\users\praktikum\downloads\multilinklist\atk.h
+	"cstdlib"
+	<iostream>
+	<conio.h>
+
+1480076190 source:c:\users\praktikum\downloads\multilinklist\main.cpp
+	<iostream>
+	"ATK.h"
+
+1479443040 source:c:\users\admin\downloads\multilinklist\main.cpp
+	<iostream>
+	"ATK.h"
+
+1479436977 c:\users\admin\downloads\multilinklist\atk.h
+	<iostream>
+
+1479437157 source:c:\users\admin\downloads\multilinklist\atk.cpp
+	"ATK.h"
+
+1480565932 source:c:\users\hp\downloads\multilinklist\atk.cpp
+	"ATK.h"
+
+1480566449 c:\users\hp\downloads\multilinklist\atk.h
+	"cstdlib"
+	<iostream>
+	<conio.h>
+
+1480076190 source:c:\users\hp\downloads\multilinklist\main.cpp
+	<iostream>
+	"ATK.h"
+
